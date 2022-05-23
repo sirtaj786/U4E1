@@ -1,3 +1,14 @@
 .task {
   /* Sample  */
+  display: flex;
+  gap: 20px;
+ 
+}
+/* input{
+  height: 40px;
+  width: 80px;
+} */
+.x{
+  width: 30px;
+  height: 10px;
 }
